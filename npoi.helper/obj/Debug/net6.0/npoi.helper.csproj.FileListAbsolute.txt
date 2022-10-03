@@ -1,0 +1,12 @@
+D:\hobby\npoi.fast\npoi.helper\bin\Debug\net6.0\npoi.helper.deps.json
+D:\hobby\npoi.fast\npoi.helper\bin\Debug\net6.0\npoi.helper.dll
+D:\hobby\npoi.fast\npoi.helper\bin\Debug\net6.0\npoi.helper.pdb
+D:\hobby\npoi.fast\npoi.helper\obj\Debug\net6.0\npoi.helper.csproj.AssemblyReference.cache
+D:\hobby\npoi.fast\npoi.helper\obj\Debug\net6.0\npoi.helper.GeneratedMSBuildEditorConfig.editorconfig
+D:\hobby\npoi.fast\npoi.helper\obj\Debug\net6.0\npoi.helper.AssemblyInfoInputs.cache
+D:\hobby\npoi.fast\npoi.helper\obj\Debug\net6.0\npoi.helper.AssemblyInfo.cs
+D:\hobby\npoi.fast\npoi.helper\obj\Debug\net6.0\npoi.helper.csproj.CoreCompileInputs.cache
+D:\hobby\npoi.fast\npoi.helper\obj\Debug\net6.0\npoi.helper.dll
+D:\hobby\npoi.fast\npoi.helper\obj\Debug\net6.0\refint\npoi.helper.dll
+D:\hobby\npoi.fast\npoi.helper\obj\Debug\net6.0\npoi.helper.pdb
+D:\hobby\npoi.fast\npoi.helper\obj\Debug\net6.0\ref\npoi.helper.dll
