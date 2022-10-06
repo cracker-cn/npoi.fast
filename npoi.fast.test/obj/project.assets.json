@@ -399,17 +399,17 @@
           }
         }
       },
-      "npoi.helper/1.0.0": {
+      "npoi.fast/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "NPOI": "2.6.0-rc-3"
         },
         "compile": {
-          "bin/placeholder/npoi.helper.dll": {}
+          "bin/placeholder/npoi.fast.dll": {}
         },
         "runtime": {
-          "bin/placeholder/npoi.helper.dll": {}
+          "bin/placeholder/npoi.fast.dll": {}
         }
       }
     }
@@ -987,15 +987,15 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "npoi.helper/1.0.0": {
+    "npoi.fast/1.0.0": {
       "type": "project",
-      "path": "../npoi.helper/npoi.helper.csproj",
-      "msbuildProject": "../npoi.helper/npoi.helper.csproj"
+      "path": "../npoi.fast/npoi.fast.csproj",
+      "msbuildProject": "../npoi.fast/npoi.fast.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "npoi.helper >= 1.0.0"
+      "npoi.fast >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1025,8 +1025,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\hobby\\npoi.fast\\npoi.helper\\npoi.helper.csproj": {
-              "projectPath": "D:\\hobby\\npoi.fast\\npoi.helper\\npoi.helper.csproj"
+            "D:\\hobby\\npoi.fast\\npoi.fast\\npoi.fast.csproj": {
+              "projectPath": "D:\\hobby\\npoi.fast\\npoi.fast\\npoi.fast.csproj"
+            },
+            "D:\\hobby\\npoi.fast\\npoi.helper\\npoi.fast.csproj": {
+              "projectPath": "D:\\hobby\\npoi.fast\\npoi.helper\\npoi.fast.csproj"
             }
           }
         }

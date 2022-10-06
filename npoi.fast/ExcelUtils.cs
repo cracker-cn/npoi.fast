@@ -3,9 +3,9 @@ using NPOI.SS.UserModel;
 using NPOI.XSSF.UserModel;
 using System.Data;
 
-namespace npoi.helper
+namespace npoi.fast
 {
-    public class ExportUtils
+    public class ExcelUtils
     {
         /// <summary>
         /// 导入excel，写入list

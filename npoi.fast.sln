@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "npoi.helper", "npoi.helper\npoi.helper.csproj", "{A95C8587-A800-4BF3-B294-05EA57257E37}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "npoi.fast", "npoi.helper\npoi.fast.csproj", "{A95C8587-A800-4BF3-B294-05EA57257E37}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "npoi.fast.test", "npoi.fast.test\npoi.fast.test.csproj", "{870E65F1-409E-474D-84A2-2F43D96A3F82}"
 EndProject

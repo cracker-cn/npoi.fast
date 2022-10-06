@@ -986,11 +986,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\hobby\\npoi.fast\\npoi.helper\\npoi.fast.csproj",
+      "projectUniqueName": "D:\\hobby\\npoi.fast\\npoi.fast\\npoi.fast.csproj",
       "projectName": "npoi.fast",
-      "projectPath": "D:\\hobby\\npoi.fast\\npoi.helper\\npoi.fast.csproj",
+      "projectPath": "D:\\hobby\\npoi.fast\\npoi.fast\\npoi.fast.csproj",
       "packagesPath": "C:\\Users\\HUA\\.nuget\\packages\\",
-      "outputPath": "D:\\hobby\\npoi.fast\\npoi.helper\\obj\\",
+      "outputPath": "D:\\hobby\\npoi.fast\\npoi.fast\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HUA\\AppData\\Roaming\\NuGet\\NuGet.Config",

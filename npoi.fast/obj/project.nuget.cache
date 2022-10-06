@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C/tsEDPMSuNRY3LeZ0vNafizHM/AtLAzdYzEzjUOPVXp6QZ7agfWFavR+LoI0S0vXB8p8QKy1lQsTdE6kj5IPw==",
+  "dgSpecHash": "DK5JbLMGo4/0pXvBNX48FJtbFa3Dz4rO/mThzmDZqPWgKnLAANxk8DAqG5cy/WpC8CoGpdsFew5SKmRhN1OxMg==",
   "success": true,
-  "projectFilePath": "D:\\hobby\\npoi.fast\\npoi.fast.test\\npoi.fast.test.csproj",
+  "projectFilePath": "D:\\hobby\\npoi.fast\\npoi.fast\\npoi.fast.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HUA\\.nuget\\packages\\enums.net\\4.0.0\\enums.net.4.0.0.nupkg.sha512",
     "C:\\Users\\HUA\\.nuget\\packages\\mathnet.numerics.signed\\4.15.0\\mathnet.numerics.signed.4.15.0.nupkg.sha512",

@@ -1,4 +1,4 @@
-﻿using npoi.helper;
+﻿using npoi.fast;
 using System.Data;
 
 namespace npoi.fast.test
@@ -8,7 +8,7 @@ namespace npoi.fast.test
         static void Main(string[] args)
         {
             string path = "D:\\downloads\\报损商品导入模板.xls";
-            List<string[]> list =ExportUtils.ToDataTable(path,5);
+            List<string[]> list =ExcelUtils.ToList(path,5);
             Console.WriteLine("完成");
         }
     }
