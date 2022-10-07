@@ -1,0 +1,5 @@
+.vs
+npoi.fast/bin
+npoi.fast/obj
+npoi.fast.test/bin
+npoi.fast.test/obj
